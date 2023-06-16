@@ -51,7 +51,8 @@
               "outputHashing": "all",
               "sourceMap": {
                 "scripts": true
-              }
+              },
+              "namedChunks": true,
             },
             "development": {
               "buildOptimizer": false,
