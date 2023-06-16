@@ -52,7 +52,7 @@
               "sourceMap": {
                 "scripts": true
               },
-              "namedChunks": true,
+              "namedChunks": true
             },
             "development": {
               "buildOptimizer": false,
