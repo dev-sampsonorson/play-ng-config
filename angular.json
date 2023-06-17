@@ -53,7 +53,8 @@
                 "scripts": true
               },
               "namedChunks": true,
-              "vendorChunk": true
+              "vendorChunk": true,
+              "commonChunk": true
             },
             "development": {
               "buildOptimizer": false,
