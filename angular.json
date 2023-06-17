@@ -52,7 +52,8 @@
               "sourceMap": {
                 "scripts": true
               },
-              "namedChunks": true
+              "namedChunks": true,
+              "vendorChunk": true
             },
             "development": {
               "buildOptimizer": false,
